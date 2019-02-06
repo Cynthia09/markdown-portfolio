@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+{image of cherry ice-cream}(https://www.jocooks.com/recipes/no-churn-cherry-chocolate-ice-cream/)
