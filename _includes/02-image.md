@@ -1,1 +1,1 @@
-(https://www.jocooks.com/recipes/no-churn-cherry-chocolate-ice-cream/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
