@@ -1,0 +1,5 @@
+- Athletic *This text will be italic*
+- Creative 
+- Kind
+- Smart **This text will be bold**
+- Sportive
